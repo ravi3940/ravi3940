@@ -64,16 +64,6 @@ Content-based recommendation using TMDB/MovieLens datasets.
 CRUD ops, search, filters, JWT authentication, real-time updates.  
 **Tech:** Angular + Spring Boot + JPA  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar&theme=radical" height="180px"/>
-</p>
-
----
 
 ---
 
