@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
+<h3 align="center">Full Stack Developer | MERN & Spring Boot</h3>
 
-<!--
-**ravi3940/ravi3940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 I build scalable **backend systems & REST APIs**  
+- ⚡ Skilled with **Node.js, Express, React, Angular, Spring Boot**  
+- 🧠 I enjoy working on **distributed systems, microservices & clean architecture**  
+- ☁️ Hands-on with **MongoDB, PostgreSQL, Redis, AWS, CI/CD**  
+- 👨‍💻 Passionate about solving real-world problems through tech  
+- 📫 Reach me: **your-email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools  
+**Frontend:** React, Angular, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express.js, Java, Spring Boot  
+**Databases:** MongoDB, PostgreSQL  
+**DevOps:** Docker, AWS, Git, GitHub Actions  
+**Others:** REST APIs, JWT Auth, Microservices, Redis, RabbitMQ  
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar&show_icons=true" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar" alt="streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+</p>
