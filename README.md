@@ -1,37 +1,108 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">Full Stack Developer | MERN & Spring Boot</h3>
+<h3 align="center">Full Stack Developer | MERN & Spring Boot | Building Scalable Systems 🚀</h3>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I build scalable **backend systems & REST APIs**  
-- ⚡ Skilled with **Node.js, Express, React, Angular, Spring Boot**  
-- 🧠 I enjoy working on **distributed systems, microservices & clean architecture**  
-- ☁️ Hands-on with **MongoDB, PostgreSQL, Redis, AWS, CI/CD**  
-- 👨‍💻 Passionate about solving real-world problems through tech  
-- 📫 Reach me: **ravikumar013013@gmail.com**
+## 🔥 About Me  
+- 💼 Full Stack Developer specializing in **MERN & Java Spring Boot**  
+- 🧠 Passionate about **system design, scalability, and clean architecture**  
+- 🛠 Love working with **Node.js, React, Angular, Express, PostgreSQL, MongoDB**  
+- ☁️ Exploring **AWS, Docker, Microservices & DevOps automation**  
+- 🎯 Focused on building real-world, production-grade applications  
+- 📫 Reach me at: **your-email@example.com**
 
 ---
 
-### 🛠️ Technologies & Tools  
-**Frontend:** React, Angular, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express.js, Java, Spring Boot  
-**Databases:** MongoDB, PostgreSQL  
-**DevOps:** Docker, AWS, Git, GitHub Actions  
-**Others:** REST APIs, JWT Auth, Microservices, Redis, RabbitMQ  
+## ⚡ Tech Stack & Tools
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### 🛠 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-### 📈 GitHub Stats  
+## 🚀 Featured Projects
+
+### 🔹 **Job Portal System**  
+Full-stack platform with candidate registration, company job postings, application tracking & admin dashboards.  
+**Tech:** Spring Boot, PostgreSQL, Redis, React/Angular, RabbitMQ  
+
+---
+
+### 🔹 **Food Delivery Backend (Zomato-like)**  
+A scalable backend with restaurants, orders, payments, delivery tracking.  
+**Tech:** Node.js, Express, MongoDB, Redis, JWT, Microservices  
+
+---
+
+### 🔹 **Movie Recommender System**  
+Content-based recommendation using TMDB/MovieLens datasets.  
+**Tech:** React, Flask/FastAPI, Python ML, Heroku  
+
+---
+
+### 🔹 **Employee Management System**  
+CRUD ops, search, filters, JWT authentication, real-time updates.  
+**Tech:** Angular + Spring Boot + JPA  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar&show_icons=true" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar&theme=radical" height="180px"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
-<p>
-<a href="https://www.linkedin.com/in/ravi-kumar-b2217a229/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+## 🌱 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-kumar&theme=react-dark" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravi-kumar&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+✨ *Feel free to check out my repositories and connect with me.*
+
