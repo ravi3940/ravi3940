@@ -9,7 +9,7 @@
 - 🛠 Love working with **Node.js, React, Angular, Express, PostgreSQL, MongoDB**  
 - ☁️ Exploring **AWS, Docker, Microservices & DevOps automation**  
 - 🎯 Focused on building real-world, production-grade applications  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ravikumar013013@gmail.com**
 
 ---
 
@@ -98,7 +98,7 @@ CRUD ops, search, filters, JWT authentication, real-time updates.
 
 ## 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ravi-kumar-b2217a229/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
