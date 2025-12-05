@@ -75,26 +75,8 @@ CRUD ops, search, filters, JWT authentication, real-time updates.
 
 ---
 
-## 🌱 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-kumar&theme=react-dark" />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravi-kumar&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 <p align="left">
