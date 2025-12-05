@@ -9,7 +9,7 @@
 - 🧠 I enjoy working on **distributed systems, microservices & clean architecture**  
 - ☁️ Hands-on with **MongoDB, PostgreSQL, Redis, AWS, CI/CD**  
 - 👨‍💻 Passionate about solving real-world problems through tech  
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **ravikumar013013@gmail.com**
 
 ---
 
@@ -33,5 +33,5 @@
 
 ### 🌐 Connect With Me  
 <p>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/ravi-kumar-b2217a229/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
 </p>
